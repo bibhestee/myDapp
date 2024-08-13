@@ -1,5 +1,5 @@
 import { createApp } from "@deroll/app";
-import contractAbi from "abi.json";
+import contractAbi from "./abi.json";
 import { encodeFunctionData, hexToString, stringToHex } from "viem";
 
 const contractAddress = process.env.SMART_CONTRACT_ADDRESS || "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4";
