@@ -3,10 +3,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="docs/images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Voting Dapp - myDapp</h3>
 
   <p align="center">
@@ -24,7 +20,7 @@
 
 ## Getting Started
 
-Below you'll find instructions on how setting up this DApp locally.
+Below you'll find instructions on how to setup this DApp locally.
 
 ### Prerequisites
 
@@ -65,9 +61,9 @@ NB: Reliable internet connectivity is paramount for building cartesi docker imag
 
 ## Usage
 
-Here you can access the examples of dapp communication and resources consume.
+Here you can access the examples of the dapp communication.
 
-There are these resources available on this dapp:
+These are the resources available on this dapp:
 
 ### Advanced handlers
 * #### Add Candidate
@@ -165,11 +161,11 @@ There are these resources available on this dapp:
   ```sh 
   http://localhost:8080/inspect/result
   ```
-
+NB: Pending Implementation 
 
 ## Contact
 
-Abdulbasit Abdullahi - [@Bibest22](https://twitter.com/bibest20) - bibhestee@gmail.com
+Abdulbasit Abdullahi - [@Bibest22](https://twitter.com/bibest22) - bibhestee@gmail.com
 
 Project Link: [https://github.com/bibhestee/myDapp](https://github.com/bibhestee/myDapp)
 
